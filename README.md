@@ -2,7 +2,7 @@ Lesson-markdown
 ===============
 marsa
 ------
-###SERA  
+### sERA
 >asasvadvafcasc wfw efef wdw.  
 >>второй параграф
 
