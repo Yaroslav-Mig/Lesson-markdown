@@ -7,4 +7,7 @@ marsa
 >asasvadvafcasc wfw efef wdw.  
 >>второй параграф
 
-rere
+Список:  
+1.  Газ
+2.  Нефть
+3.  Уголь
