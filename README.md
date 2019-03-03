@@ -25,3 +25,5 @@ marsa
 *efefef*  
 **efefef**  
 ***efefefef***  
+
+Используйте оператор `if`  
