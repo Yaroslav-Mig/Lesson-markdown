@@ -28,5 +28,5 @@ marsa
 
 Используйте оператор `if`  
 
-  <h3 class="caption">Summary</h3>  
+  <h3>Summary</h3>  
   
